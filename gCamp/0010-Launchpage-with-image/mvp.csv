@@ -1,0 +1,2 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
+79628728,User can view the launch page,mvp,,,,feature,1,unstarted,"Sep 26, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79628728,,Route '/' url to show launch page,not completed,Include the marketing image.,not completed,Include the site title,not completed
