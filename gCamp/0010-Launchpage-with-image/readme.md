@@ -3,7 +3,8 @@
 User views home page / launch page w/ image
 
 ## Links
-[WireFrame](https://galvanize.mybalsamiq.com/mockups/2289262.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
+![WireFrame](https://galvanize.mybalsamiq.com/mockups/2289262.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
+
 [Free Images](http://www.imcreator.com/free)
 
 
