@@ -1,20 +1,48 @@
-√ Story: User views home page / launch page w/ image
+# Stories
+
+Produce: getting started guide
+√ Produce: git repo with gCamp mocks / stories
+
+Produce: Naming cheat sheet
+Produce: Markup and instructions for students to use
+Story: User views home page / launch page w/ image
+Extra: user views fancier content + grid
+Extra: Named view and explicit render in controller
+Extra: mail_to link
+
+Lesson: Git and Github (apply)
+Lesson: Git and Github (understand)
+Story: create and push gCamp repo (using git add -A)
+Extra: git add individual files / -p / -N etc...
+Extra: git book / docs
+Lesson: Terminal / bash (apply - command line the hard way)
+Lesson: Command line memory game
+
+Lesson: Understand routes / link_to
+Lesson: Apply Routes / link_to
 Story: User can view about page and terms - links in the footer
+Produce: html for pages (whole body)
+Extra: header image linked (link_to do)
+Extra: separate out into different controllers
+Extra: moar pages
+
+Lesson: Heroku (understand and apply
+Lesson: Gemfile / fails_12factor
 Story: deploy gCamp (w/ Cutom name)
+Extra: Git remote stuff
+Extra: custom url
+Lesson: dev workflow typography (sequence diagrams)
+
+Lesson: layouts / understanding / analysis / application
 Story: convert gCamp to layouts
+Extra: set page title from view / either with instance variables and content_for
+Extra: set layout name / custom layouts per action
+
+Lesson: view rendering review
+Lesson: view rendering advanced review
+Lesson: atom
+Assessment
+
+Lesson: controller / view communication w/ instance variables
+Lesson: arrays / each
 Story: add dynamic quotes
-Story: refactor quotes to classes / user can view dates and author separately on quotes
-Story: Quote class is tested
-Story: users can crud tasks (w/ scaffold)
-Story: tweak task form to look like bootstrap (needs design)
-Story: users can create and see all users
-Story: User can edit / show update users
-Story: users can refactor to partials
-Story: users can destroy users
-Story: user can assign task to specific user
-Story: user can CRUD projects
-Story: Users are emailed when tasks are assigned to them
-Story: users see tasks scoped by project
-Story: user can view project dashboard
-Story: users can log in / log out
-Story: users can see github data on project page

@@ -1,0 +1,4 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
+79731220,git add individual files,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray, / -p / -N etc...,https://www.pivotaltracker.com/story/show/79731220,
+79732074,Read Pro Git,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,http://gitbookio.gitbooks.io/progit/en/index.html,https://www.pivotaltracker.com/story/show/79732074,
+79737418,Git Stretch,"",,,,release,,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79737418,

@@ -1,0 +1,5 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
+79721238,User enjoys fancy layout,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,See mockup for general direction.,https://www.pivotaltracker.com/story/show/79721238,,"Move image into asset pipeline, include as background with CSS",not completed,List three features as columns,not completed,Add body copy under the feature columns,not completed
+79728946,Named view and explicit render in controller,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79728946,
+79728994,Use mail_to link for email,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79728994,
+79738434,Launch Page Stretch,"",,,,release,,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79738434,

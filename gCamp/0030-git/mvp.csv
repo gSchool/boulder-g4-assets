@@ -1,0 +1,3 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
+79730800,create and push gCamp repo (using git add -A),mvp,,,,feature,1,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79730800,
+79737236,Git MVP,"",,,,release,,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79737236,
