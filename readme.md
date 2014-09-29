@@ -1,4 +1,8 @@
- # Structure
+# Structure
+
+A place to store assets for apps we build in class.
+
+## How to use this repo
 
 ### Every folder in gCamp has four files:
 1. **mpv.csv** includes a required story for Pivotal Tracker
@@ -6,7 +10,7 @@
 1. **stretch.csv** includes one or more optional stories
 1. **stretch.md** describes the stretch stories
 
-# Workflow
+### Workflow
 1. Create folder
   - Identify lesson and story theme (partials, MVC, objects, etc)
   - Create a folder in the gCamp root
