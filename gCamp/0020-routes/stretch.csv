@@ -1,4 +1,4 @@
-Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
-79732138,Separate out into different controllers,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79732138,
-79732232,"Add a contact page that displays email, phone number & Address",stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79732232,
-79739310,Routes Stretch,"",,,,release,,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79739310,
+Title,Labels,Type,Estimate,Description
+Separate out into different controllers,stretch,feature,2,
+"Add a contact page that displays email, phone number & Address",stretch,feature,2,
+Routes Stretch,,release,,
