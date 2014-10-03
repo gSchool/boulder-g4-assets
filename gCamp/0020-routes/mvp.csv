@@ -1,3 +1,4 @@
 Title,Labels,Iteration End,Type,Estimate,Task,Task
-Link header image to '/',stretch,,feature,1,,
+Create footer w/ about and terms links,mvp,,feature,1,,
+Link header image to '/',mvp,,feature,1,,
 Routes MVP,,,release,,,
