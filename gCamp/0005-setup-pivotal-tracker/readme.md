@@ -1,0 +1,3 @@
+# Get started with gCamp!
+
+This is where it all begins...
