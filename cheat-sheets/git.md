@@ -3,7 +3,9 @@
 ### How to Initialize a local directory as a git repository
 
 1. Create the project folder and initial files.
+
 1. Make sure you are in the topmost directory in your project directory in terminal.
+
 1. Initialize the folder as a git repository.
 
     $ git init
@@ -21,6 +23,7 @@
     https://github.com
 
 1. Copy the SSH clone URL.
+
 1. Return to your project directory and add the SSH clone URL as a remote.
 
     $ git remote add origin (SSH clone URL)
@@ -32,6 +35,7 @@
 ### How to add new changes to an existing git repository
 
 1. Make any desired changes in your git initialized project directory (see above).
+
 1. Stage any changed files.
 
     $ git add -A
