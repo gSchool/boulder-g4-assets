@@ -1,7 +1,7 @@
 # Routes: View New Pages
 
 ### Homepage with Footer
-![Wireframes](https://galvanize.mybalsamiq.com/mockups/2307771.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
+![Wireframes](https://galvanize.mybalsamiq.com/mockups/2321960.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
 When the user clicks the about link in the footer, it should take them to the about page below.
 
@@ -12,3 +12,7 @@ When the user clicks the terms link in the footer, it should take them to the te
 
 ## Terms Page
 ![Wireframe](https://galvanize.mybalsamiq.com/mockups/2290674.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
+
+## Images
+
+http://pixabay.com/en/meeting-conference-people-table-152506/

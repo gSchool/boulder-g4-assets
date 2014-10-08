@@ -1,6 +1,5 @@
-Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Task,Task Status,Task,Task Status,Task,Task Status
-79728946,Named view and explicit render in controller,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79728946,
-80041486,Iterate over photos with erb.,stretch,1,"Sep 28, 2014","Oct 4, 2014",feature,2,unstarted,"Oct 3, 2014",,,Luke Bartel,Use erb to iterate over the photos in a each block.,https://www.pivotaltracker.com/story/show/80041486,
-79728994,Use mail_to link for email,stretch,,,,feature,2,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79728994,
-80041660,Convert to haml,stretch,1,"Sep 28, 2014","Oct 4, 2014",feature,2,unstarted,"Oct 3, 2014",,,Luke Bartel,"Once you have it working in erb, convert it to haml.",https://www.pivotaltracker.com/story/show/80041660,
-79738434,Launch Page Stretch,"",,,,release,,unstarted,"Sep 29, 2014",,,Aaron Gray,,https://www.pivotaltracker.com/story/show/79738434,
+Title,Labels,Description
+Add a full-width / full-height background image,stretch,"And re-do the jumbotron to look like the mockup"
+Named view and explicit render in controller,stretch,"Make the template names and controller actions names different.  This will require explicit `render` calls."
+Dynamically generate the columns,stretch,"Create an array of hashes or objects and use erb (or haml) to iterate over the array in a each block."
+Convert to haml,stretch,"Once you have it working in erb, convert it to haml.  Requires installing the gem and renaming the view template names"

@@ -1,4 +1,4 @@
-Title,Labels,Iteration End,Type,Estimate,Task,Task
-Create footer w/ about and terms links,mvp,,feature,1,,
-Link header image to '/',mvp,,feature,1,,
-Routes MVP,,,release,,,
+Title,Labels
+Create the about page and link it in the footer,mvp
+Create the terms page and link it in the footer,mvp
+Link header to the home page,mvp

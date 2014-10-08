@@ -1,4 +1,5 @@
-Title,Labels,Type,Estimate,Description
-Separate each view into different controllers,stretch,feature,1,
-Add named routes and reference those with link_to,stretch,feature,1,http://guides.rubyonrails.org/routing.html
-Customize the link names with internationalization,stretch,feature,1,http://guides.rubyonrails.org/i18n.html
+Title,Labels,Description
+Separate each view into different controllers,stretch,
+Add named routes and reference those with link_to,stretch,http://guides.rubyonrails.org/routing.html
+Customize the link names with internationalization,stretch,http://guides.rubyonrails.org/i18n.html
+Turn the footer links into plain text when the user is on that page,stretch,http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
