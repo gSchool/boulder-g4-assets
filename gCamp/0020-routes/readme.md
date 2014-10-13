@@ -15,4 +15,4 @@ When the user clicks the terms link in the footer, it should take them to the te
 
 ## Images
 
-http://pixabay.com/en/meeting-conference-people-table-152506/
+http://pixabay.com/static/uploads/photo/2013/07/12/17/49/meeting-152506_640.png
