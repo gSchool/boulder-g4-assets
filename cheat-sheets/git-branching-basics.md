@@ -28,8 +28,13 @@
   * $ git merge \<awesome branchname>
   * PROTIP : You need to STAND in the branch you want to merge changes INTO
   * Merge the changes in the named branch INTO this branch that I am standing in
+1. Verify that master and \<awesome branchname> are temporarily on the same commit
+  * git log --decorate
+1. OPTIONAL - Delete the branch tag
+  * $ git branch -D \<awesome branchname>
 
-### Create a branch and abandon changes (AKA Oh god this is a disaster)
+
+### Create a branch and abandon changes (AKA "Oh god this is a disaster")
 
 1. Follow all steps but the last one listed above
 1. If you want that branch to disappear forever and ever
