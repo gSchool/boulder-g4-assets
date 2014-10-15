@@ -158,3 +158,6 @@ Add FAQ page:
 1. Import these stories into tracker: https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0050-faqs/mvp.csv
 1. Add the FAQ page to your gCamp app according to these wireframes - https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0050-faqs
 1. If you are finished before the class moves on, try these stories https://github.com/gSchool/boulder-g4-assets/blob/master/gCamp/0050-faqs/stretch.csv
+
+
+Here are all the whiteboard pictures from this morning: https://drive.google.com/drive/#folders/0B143NzKqlpeTMU12VHM5emdKTWc/0B143NzKqlpeTbG9RQ1IwTXlaUzQ
