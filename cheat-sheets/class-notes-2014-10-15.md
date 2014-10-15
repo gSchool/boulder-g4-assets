@@ -59,6 +59,14 @@ Exercise:
 
 ### Analyzing Domains
 
+- users can see the employment history for a person or organization
+- users can see current employees of organizations, and current employers of people
+- users should be able to record that an organization fired an employee
+- users should be able to record that an organization laid off an employee
+- users should be able to record that a person quit their job with an organization
+- 
+
+
 ### Ruby Classes
 
 ### Controller / View Communication
