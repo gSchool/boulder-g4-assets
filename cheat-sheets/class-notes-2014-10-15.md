@@ -39,6 +39,24 @@ Attributes are stored in memory / Methods are calculated by the CPU
 - Draw other rectangles round the edges
 - Draw lines with either crow's feet or "1 - infinity-sign"
 
+Exercise:
+
+* Person object
+    * dob attribute
+    * age, employers methods
+    * has many employments
+    * has many addresses
+* Organization object
+    * name attribute
+    * employees method
+    * has many employments
+    * has many addresses
+* Address object
+    * city, state and zip attributes
+    * geocode method
+* Employment object
+    * title attribute
+
 ### Analyzing Domains
 
 ### Ruby Classes
