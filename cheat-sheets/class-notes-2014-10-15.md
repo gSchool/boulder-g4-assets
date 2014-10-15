@@ -138,3 +138,10 @@ end
 View the naming guide: https://github.com/gSchool/boulder-g4-assets/blob/master/cheat-sheets/rails-naming-guide.pdf
 
 
+## Putting it all together
+
+* Look at the wireframes
+* Draw a simple UML diagram of what the class would look like
+* Add the class to `app/models`
+* Creates instances of those classes in the controller with `@variable_name` (the `@` symbol)
+* Use those instances in the view
