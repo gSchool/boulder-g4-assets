@@ -1,0 +1,3 @@
+Current State,Estimate,Labels,Title
+unstarted,1,mvp,add complete checkbox to edit task page
+unstarted,2,mvp,add completed boolean attribute to task class
