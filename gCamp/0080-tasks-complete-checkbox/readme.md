@@ -1,6 +1,6 @@
 # Scaffold Tasks - CRUD - Bootstrap
 
-Use bootstrap to style the pages you made with scaffold tasks
+Add a complete checkbox to your edit task page.
 
 ## Links ##
 Tasks - complete checkbox on edit task page
