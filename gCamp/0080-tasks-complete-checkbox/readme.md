@@ -1,4 +1,4 @@
-# Scaffold Tasks - CRUD - Bootstrap
+# Complete Checkbox
 
 Add a complete checkbox to your edit task page.
 
