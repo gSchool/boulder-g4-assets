@@ -95,4 +95,43 @@ end
 
 ```
 
+Use `rails c` (or `rails console`) to play around.
+
+```ruby
+
+    my_peep = Person.new
+    my_peep.first_name = "Jeff"
+    my_peep.last_name = "Dean"
+    my_peep.full_name  # <= "Jeff Dean"
+
+```
+
+```ruby
+
+# in some controller, like app/controllers/pages_controller.rb
+
+class PagesController < ApplicationController
+
+  def index
+    @jeff = Person.new
+    @jeff.first_name = "Jeff"
+    @jeff.last_name = "Dean"
+
+    @peter = Person.new
+    @peter.first_name = "Peter"
+    @peter.last_name = "Klowes"
+  end
+
+end
+
+# in the corresponding view
+
+<p>Hi <%= @jeff.full_name %>!</p>
+
+<p>Hi <%= @peter.full_name %>!</p>
+
+```
+
+View the naming guide: https://github.com/gSchool/boulder-g4-assets/blob/master/cheat-sheets/rails-naming-guide.pdf
+
 ### Controller / View Communication
