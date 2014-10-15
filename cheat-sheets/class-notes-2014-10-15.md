@@ -30,6 +30,15 @@ When modeling, you are "defining the cookie cutters" - Evan
 "One size fits all in that world" - Andy  <-- this is called a "Domain"
 "Like building legos - data model diagrams are the instruction book" - Turek
 
+#### Drawing
+
+- Draw a tall-ish rectangle in the middle
+- Add the title with a line beneath
+- Draw a line near the bottom for methods
+
+- Draw other rectangles round the edges
+- Draw lines with either crow's feet or "1 - infinity-sign"
+
 ### Analyzing Domains
 
 ### Ruby Classes
