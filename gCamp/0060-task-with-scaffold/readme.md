@@ -1,6 +1,6 @@
 # Scaffold Tasks - CRUD
 
-CRUD tasks with rails g scaffold
+User can CRUD tasks with rails g scaffold
 
 ## Links ##
 Tasks - index
