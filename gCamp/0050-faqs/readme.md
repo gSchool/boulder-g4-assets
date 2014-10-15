@@ -1,4 +1,4 @@
-# Scaffold Tasks - CRUD
+# FAQ page, links, class
 
 Add a FAQ page.  Link questions at top of page with questions and answers below.
 
