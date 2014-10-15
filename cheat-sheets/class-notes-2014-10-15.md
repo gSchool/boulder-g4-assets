@@ -23,7 +23,12 @@ MVC: Model, View, Controller
 
 Attributes are stored in memory / Methods are calculated by the CPU
 
+"You're playing God" - Evan
 When modeling, you are "defining the cookie cutters" - Evan
+"We're looking at the _potential_ for things" - Turek
+"One size fits all" - Mello
+"One size fits all in that world" - Andy  <-- this is called a "Domain"
+"Like building legos - data model diagrams are the instruction book" - Turek
 
 ### Analyzing Domains
 
