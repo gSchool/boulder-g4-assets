@@ -1,3 +1,2 @@
-Current State,Estimate,Labels,Title
-unstarted,1,mvp,add complete checkbox to edit task page
-unstarted,2,mvp,add completed boolean attribute to task class
+Current State,Estimate,Labels,Title,Description
+unstarted,1,mvp,users can complete tasks,"add completed boolean attribute to task class, add checkbox to the edit form only"
