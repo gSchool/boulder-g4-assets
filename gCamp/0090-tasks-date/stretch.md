@@ -1,6 +1,6 @@
 # Stretch Wireframes
 
-Add a button for each task on the index page to mark complete.
+Highlight tasks on the task index page that are due within the week.
 
 ## Links ##
 Tasks - highlight tasks that are due within the week
