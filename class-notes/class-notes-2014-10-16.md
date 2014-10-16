@@ -93,7 +93,7 @@ Bootstrapify the views
 * [MVP Wireframes](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0070-twitter-bootstrap-tasks)
 * [MVP Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0070-twitter-bootstrap-tasks/mvp.csv)
 * [Stretch Wireframes](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0070-twitter-bootstrap-tasks/stretch.md)
-* [Stretch CSV](https://github.com/gSchool/boulder-g4-assets/blob/master/gCamp/0070-twitter-bootstrap-tasks/stretch.csv)
+* [Stretch CSV](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0070-twitter-bootstrap-tasks/stretch.csv)
 
 References for bootstrap stories:
 
