@@ -81,6 +81,23 @@ Here's a git gui: http://rowanj.github.io/gitx/
 * Avoid comic fonts
 * Avoid adding your own borders / background colors (we removed black from the wires)
 
+Wireframes are:
+
+* Content
+* Architecture
+* Layout
+* Pointers to components
+
+Wireframes are _not_:
+
+* Decoration
+* Style
+* CSS
+
+There are few exceptions:
+
+* body padding w/ navbar-fixed-top
+
 ### Rails CRUD
 
 Finish https://students.gschool.it/cohorts/3/exercises/139
