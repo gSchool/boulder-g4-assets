@@ -45,6 +45,11 @@ git branch -a
 
 Finish https://students.gschool.it/cohorts/3/exercises/139
 
+- **C**reate
+- **R**ead
+- **U**pdate
+- **D**elete
+
 Steps are:
 
 * run the `rails generate scaffold` command
