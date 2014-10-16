@@ -74,6 +74,8 @@ Great talk about git internals: https://www.youtube.com/watch?v=1ffBJ4sVUb4 (lon
 
 Conflict exercise: https://github.com/gSchool/git-campaign-results
 
+Here's a git gui: http://rowanj.github.io/gitx/
+
 ### Interpreting Wireframes
 
 * Avoid comic fonts
