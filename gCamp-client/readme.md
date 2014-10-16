@@ -1,5 +1,5 @@
 # gCamp Client
-
+c
 All front-end curriculum assets are stored here.
 
 ## Draft Outline
@@ -30,6 +30,7 @@ stories.
 - Forms in Depth
 - Phantom / Casper
 - Node intro: npm, bower, etc..
+- Cookies / session mgmt
 - JS Events
 - Chrome Dev Tools in Depth
 - Browser Support in Depth
@@ -38,10 +39,17 @@ stories.
 - SVG and retina
 - use strict
 
+
+- Marketing site
+- Setting up subdomain of gschoolapp.com
+- Deployment process for heroku
+- Point subdomain to point to heroku app
+- Design for mobile app and marketing site
+
+
 ## Draft Stories
 
-Students will build a mobile interface that uses the Rails API they
-built in the gCamp MVP. A mobile context is assumed for every story.
+Students will build a mobile interface that uses the Rails API they built in the gCamp MVP. A mobile context is assumed for every story.
 
 MVP: A user logs into gCamp from root
 - Form validations should happen inline using HTML5 form fields
