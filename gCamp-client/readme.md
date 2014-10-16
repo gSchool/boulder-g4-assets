@@ -51,3 +51,12 @@ MVP: A user clicks 'Sign Up' to use the register form
 MVP: A list of recent messages is seen from the dashboard route
 
 MVP:
+
+## Draft Lessons
+
+### Code Quality
+Apply
+
+- 'use strict'
+- jshint
+- styleguides: link to guthub js styleguide
