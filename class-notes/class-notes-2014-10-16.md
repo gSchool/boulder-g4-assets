@@ -74,3 +74,23 @@ Then after committing and pushing to Github:
 git push heroku master
 heroku run rake db:migrate
 ```
+
+### gCamp Stories
+
+Basic CRUD
+
+* [MVP Wires](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0060-task-with-scaffold)
+* [MVP Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0060-task-with-scaffold/mvp.csv)
+* [Stretch Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0060-task-with-scaffold/mvp.csv)
+
+Bootstrapify the views
+
+* [MVP Wireframes](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0070-twitter-bootstrap-tasks)
+* [MVP Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0070-twitter-bootstrap-tasks/mvp.csv)
+* [Stretch CSV](https://github.com/gSchool/boulder-g4-assets/blob/master/gCamp/0070-twitter-bootstrap-tasks/stretch.csv)
+
+References for bootstrap stories:
+
+* http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-text_field
+* http://getbootstrap.com/css/#tables
+* http://getbootstrap.com/css/#forms

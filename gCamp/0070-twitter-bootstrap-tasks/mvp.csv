@@ -1,2 +1,5 @@
-Current State,Estimate,Labels,Title
-unstarted,2,mvp,bootstrapify task CRUD pages
+Current State,Estimate,Labels,Title,Description
+unstarted,2,mvp,bootstrapify tasks index page,http://getbootstrap.com/css/#tables
+unstarted,2,mvp,bootstrapify tasks form,http://getbootstrap.com/css/#forms
+unstarted,2,mvp,bootstrapify task show page,
+unstarted,2,mvp,bootstrapify the flash message,http://getbootstrap.com/components/#alerts

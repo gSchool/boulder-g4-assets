@@ -1,2 +1,4 @@
-Current State,Estimate,Labels,Title
-unscheduled,1,stretch,story title here...
+Current State,Estimate,Labels,Title,Description
+unscheduled,1,stretch,convert Quotes to an ActiveRecord model,write a migration to populate the data (do not use rails generator)
+unscheduled,1,stretch,convert FAQs to an ActiveRecord model,write a migration to populate the data (do not use rails generator)
+unscheduled,1,stretch,add pagination to the tasks index page,use Kaminari
