@@ -72,6 +72,8 @@ https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-lin
 
 Great talk about git internals: https://www.youtube.com/watch?v=1ffBJ4sVUb4 (long and awesome)
 
+Conflict exercise: https://github.com/gSchool/git-campaign-results
+
 ### Interpreting Wireframes
 
 * Avoid comic fonts
