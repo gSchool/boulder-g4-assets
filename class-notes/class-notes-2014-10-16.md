@@ -116,6 +116,8 @@ Steps are:
 
 **Steps to running a scaffold**
 
+See http://guides.rubyonrails.org/command_line.html for more details
+
 If you were generating a model for a Car with a make, model and year:
 
 ```
