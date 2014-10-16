@@ -21,6 +21,14 @@ Create a branch:
 git checkout -b my-new-branch-name
 ```
 
+Make changes and commit.
+
+See a fancy log
+
+```
+git log --oneline --all --decorate --graph
+```
+
 Switch branches:
 
 ```
