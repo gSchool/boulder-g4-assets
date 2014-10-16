@@ -43,6 +43,8 @@ git checkout master
 git merge my-new-branch
 ```
 
+When VIM opens, type escape, then `:wq` (for 'write' 'quit') then `ENTER` (which closes view)
+
 Delete a branch that's already been merged:
 
 ```
