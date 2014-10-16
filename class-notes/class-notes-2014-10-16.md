@@ -57,6 +57,19 @@ View branches:
 git branch -a
 ```
 
+If you get a merge conflict, remove all lines that have the `<<<<<`, `>>>>>` and `===`
+
+```
+the number of planets are
+<<<<<<< HEAD
+nine
+=======
+eight
+>>>>>>> branch-a
+```
+
+https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
+
 Great talk about git internals: https://www.youtube.com/watch?v=1ffBJ4sVUb4 (long and awesome)
 
 ### Interpreting Wireframes
