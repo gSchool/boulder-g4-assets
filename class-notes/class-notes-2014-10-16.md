@@ -4,6 +4,17 @@
 
 ### Git
 
+Create a new git directory:
+
+```
+cd ~/workspace/
+git init branching-demo
+cd branching-demo
+atom .
+```
+
+Add some files, commit and change
+
 Create a branch:
 
 ```
