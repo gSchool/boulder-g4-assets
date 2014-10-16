@@ -2,8 +2,6 @@
 
 Add breadcrumbs
 
-Use bootstrap to style the pages you made with scaffold tasks
-
 ## Links ##
 
 Tasks - new with breadcrumbs
