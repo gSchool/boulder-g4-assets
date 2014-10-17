@@ -26,7 +26,7 @@ Tasks - edit
 
 Add breadcrumbs
 
-MVP Tracker Stories:
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
 unscheduled,1,"stretch,crud",bootstrapify the pagination links,"http://getbootstrap.com/components/#pagination"

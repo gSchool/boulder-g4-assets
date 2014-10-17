@@ -1,5 +1,0 @@
-Current State,Estimate,Title,Labels,Description
-unstarted,1,Add a full-width / full-height background image,stretch,"And re-do the jumbotron to look like the mockup"
-unstarted,1,Named view and explicit render in controller,stretch,"Make the template names and controller actions names different.  This will require explicit `render` calls."
-unstarted,1,Dynamically generate the columns,stretch,"Create an array of hashes or objects and use erb (or haml) to iterate over the array in a each block."
-unstarted,1,Convert to haml,stretch,"Once you have it working in erb, convert it to haml.  Requires installing the gem and renaming the view template names"
