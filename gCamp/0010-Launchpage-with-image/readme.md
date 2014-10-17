@@ -12,3 +12,10 @@ Users can view the launch page,"mvp,launch"
 ![WireFrame](https://galvanize.mybalsamiq.com/mockups/2304814.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
 [Free Images](http://www.imcreator.com/free)
+
+# Launch page uses custom layout and fancy styles
+
+Tracker Stories:
+
+![Wireframe](https://galvanize.mybalsamiq.com/mockups/2254349.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
+
