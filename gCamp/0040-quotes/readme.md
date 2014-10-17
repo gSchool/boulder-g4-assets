@@ -1,6 +1,6 @@
 # MVP Wireframes
 
-Tracker Stories:
+MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title
 unstarted,1,"mvp,quotes",users can see quotes on the homepage
@@ -13,7 +13,7 @@ Using a single array, make this happen:
 
 # Stretch Wireframes
 
-Tracker Stories:
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Labels,Title
 unscheduled,1,stretch,users can see author names separately for quotes on the homepage
