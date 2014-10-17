@@ -46,7 +46,7 @@ From within your new rails app directory, rename `app/assets/stylesheets/applica
 From the command line, this line should work:
 
 ```
-mv app/assets/stylesheets/application.css app/assets/stylesheets/application.css.scss`
+mv app/assets/stylesheets/application.css app/assets/stylesheets/application.css.scss
 ```
 
 https://github.com/twbs/bootstrap-sass#a-ruby-on-rails
