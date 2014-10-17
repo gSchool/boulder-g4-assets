@@ -37,9 +37,17 @@ rails new my-app --database postgresql
 cd my-app
 ```
 
+Visit http://localhost:3000/
+
 Here's [the Rails guide](http://guides.rubyonrails.org/getting_started.html) with more info about getting started.
 
 **Add twitter bootstrap**
+
+See this guide: https://github.com/twbs/bootstrap-sass#a-ruby-on-rails
+
+NOTES:
+- you probably already have the `sass-rails` gem  in your Gemfile so don't copy that line
+- when it comes to renaming application.css, do this:
 
 From within your new rails app directory, rename `app/assets/stylesheets/application.css` to `app/assets/stylesheets/application.css.scss`
 
@@ -48,8 +56,6 @@ From the command line, this line should work:
 ```
 mv app/assets/stylesheets/application.css app/assets/stylesheets/application.css.scss
 ```
-
-https://github.com/twbs/bootstrap-sass#a-ruby-on-rails
 
 Instead of copying the entire bootstrap template, try just adding one component
 at a time.
@@ -133,6 +139,8 @@ git status
 # add if necessary
 git push heroku master
 ```
+
+If you want to read logs it's just `heroku logs -t`
 
 To add a name, see https://devcenter.heroku.com/articles/creating-apps#creating-a-named-app - like `heroku apps:create my-special-name`
 
