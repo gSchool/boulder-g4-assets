@@ -2,11 +2,11 @@
 
 Add date field to task edit and new pages.
 
-Tracker Stories:
+MVP Tracker Stories:
 
 ```
 Current State,Estimate,Labels,Title,Description
-unstarted,1,mvp,users can add due date to tasks,"add date attribute to task class, add date fields to the edit form"
+unstarted,1,"mvp,date",users can add due date to tasks,"add date attribute to task class, add date fields to the edit form"
 ```
 
 ## Links ##
@@ -20,11 +20,11 @@ Tasks - date field on new task.
 
 Highlight tasks on the task index page that are due within the week.
 
-Tracker Stories:
+Stretch Tracker Stories:
 
 ```
 Current State,Estimate,Labels,Title,Description
-unscheduled,1,stretch,highlight upcoming tasks,highlight tasks that are due within a week
+unscheduled,1,"stretch,date",highlight upcoming tasks,highlight tasks that are due within a week
 ```
 
 ## Links ##
