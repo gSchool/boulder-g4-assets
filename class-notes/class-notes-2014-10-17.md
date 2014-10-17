@@ -179,4 +179,7 @@ Run the file with `ruby my_script.rb`
 Outputting text:
 
 * `puts` prints thing you pass it, as nicely as it can
-* `p` inspects the thing you pass it
+* `p` inspects the thing you pass it (more for debugging)
+
+When reading examples in docs, like http://www.ruby-doc.org/core-2.1.3/Array.html#method-i-shuffle be sure to put a `p` or a `puts` somewhere to see the output.
+
