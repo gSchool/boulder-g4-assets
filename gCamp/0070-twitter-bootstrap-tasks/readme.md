@@ -25,6 +25,13 @@ Tasks - edit
 
 Add breadcrumbs
 
+```
+Current State,Estimate,Labels,Title,Description
+unscheduled,1,stretch,bootstrapify the pagination links,"http://getbootstrap.com/components/#pagination"
+unscheduled,1,stretch,add breadcrumbs to tasks new/show/edit,"http://getbootstrap.com/components/#breadcrumbs"
+unscheduled,1,stretch,convert breadcrumb code to a helper method,"in app/helpers/application_helper.rb"
+```
+
 ## Links ##
 
 Tasks - new with breadcrumbs
