@@ -2,6 +2,8 @@
 
 Add a FAQ page.  Link questions at top of page with questions and answers below.
 
+
+MVP Tracker Stories:
 ```
 Current State,Estimate,Title,Labels
 unstarted,1,Create the FAQ page and link it in the footer,mvp
@@ -15,7 +17,7 @@ FAQ page top
 ![FAQ - top](https://galvanize.mybalsamiq.com/mockups/2351416.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
 # Stretch Wireframes
-
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Title,Labels
 unstarted,2,faq class should have an initializer,stretch
