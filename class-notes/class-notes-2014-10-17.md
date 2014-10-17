@@ -8,6 +8,7 @@ Personal project
 
 * Name it whatever you like.
 * Make sure it's in the gCamp account
+* Do NOT make it public
 * Invite the following members:
     * jeff@galvanize.it
     * emily@galvanize.it
@@ -27,9 +28,11 @@ unstarted,1,feature,users who visit your github repo should see a nice looking r
 
 **Create a rails app locally**
 
+
 NOTE: replace `my-app` with the name of your app
 
 ```
+cd ~/workspace
 rails new my-app --database postgresql
 cd my-app
 ```
@@ -87,7 +90,7 @@ If you want standard twitter bootstrap goodness, I suggest:
 
 On Github.com
 
-* Create project
+* Create project (make it public)
 
 Locally, from your rails directory
 
