@@ -15,5 +15,6 @@ This is just a refactor story - so nothing here
 
 Tracker Stories:
 ```
-
+Current State,Estimate,Labels,Title
+unscheduled,1,stretch,Create an initializer for your class
 ```
