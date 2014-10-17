@@ -3,7 +3,7 @@
 Tracker Stories:
 ```
 Current State,Estimate,Labels,Title
-unstarted,1,mvp,users can see quotes on the homepage
+unstarted,1,"mvp,quotes",users can see quotes on the homepage
 ```
 
 Using a single array, make this happen:
