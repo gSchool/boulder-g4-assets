@@ -14,6 +14,10 @@ Using a single array, make this happen:
 # Stretch Wireframes
 
 Tracker Stories:
+```
+Current State,Estimate,Labels,Title
+unscheduled,1,stretch,users can see author names separately for quotes on the homepage
+```
 
 Using an array of arrays, make this happen:
 
