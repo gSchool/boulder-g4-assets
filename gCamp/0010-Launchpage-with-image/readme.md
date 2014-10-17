@@ -5,7 +5,7 @@ User views home page / launch page w/ image
 Tracker Stories:
 ```
 Title,Labels
-Users can view the launch page,mvp
+Users can view the launch page,"mvp,launch"
 ```
 
 ## Links
