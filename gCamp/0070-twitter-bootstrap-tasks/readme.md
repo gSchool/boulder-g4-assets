@@ -2,6 +2,7 @@
 
 Use bootstrap to style the pages you made with scaffold tasks
 
+MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
 unstarted,2,mvp,bootstrapify tasks index page,http://getbootstrap.com/css/#tables
@@ -25,6 +26,7 @@ Tasks - edit
 
 Add breadcrumbs
 
+MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
 unscheduled,1,stretch,bootstrapify the pagination links,"http://getbootstrap.com/components/#pagination"
