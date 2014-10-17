@@ -11,6 +11,6 @@ Stretch
 Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Type
-unscheduled,1,stretch,git add individual files,chore
-unscheduled,1,stretch,Read Pro Git,chore
+unscheduled,1,"stretch,git",git add individual files,chore
+unscheduled,1,"stretch,git",Read Pro Git,chore
 ```
