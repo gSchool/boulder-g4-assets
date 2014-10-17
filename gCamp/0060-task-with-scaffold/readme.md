@@ -2,6 +2,11 @@
 
 User can CRUD tasks with rails g scaffold
 
+```
+Current State,Estimate,Labels,Title
+unstarted,1,mvp,users should be able to CRUD tasks with a description
+```
+
 ## Links ##
 Tasks - index
 ![Tasks - index](https://galvanize.mybalsamiq.com/mockups/2346715.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
