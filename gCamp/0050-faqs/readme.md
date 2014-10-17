@@ -16,6 +16,16 @@ FAQ page top
 
 # Stretch Wireframes
 
+```
+Current State,Estimate,Title,Labels
+unstarted,2,faq class should have an initializer,stretch
+unstarted,2,faq class should have a class method called all that returns the array of faq objects,stretch
+unstarted,2,use an anchor tag to link questions at the top of the page to questions and answers below,stretch
+unstarted,2,data for the faq class should be stored in a yaml file and the all method should inflate it from that file,stretch
+unstarted,2,faq classes should be sortable (implement Comparable) and should be sorted by the lowercase version of the question,stretch
+unstarted,2,the anchor name should be calculated by removing whitespace and punctuation from the title and should be a method called slug,stretch
+```
+
 FAQ page with question links on top
 ![FAQ - links](https://galvanize.mybalsamiq.com/mockups/2352113.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
