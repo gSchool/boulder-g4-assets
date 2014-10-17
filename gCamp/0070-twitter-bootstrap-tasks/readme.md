@@ -5,10 +5,10 @@ Use bootstrap to style the pages you made with scaffold tasks
 MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
-unstarted,2,mvp,bootstrapify tasks index page,http://getbootstrap.com/css/#tables
-unstarted,2,mvp,bootstrapify tasks form,http://getbootstrap.com/css/#forms
-unstarted,2,mvp,bootstrapify task show page,
-unstarted,2,mvp,bootstrapify the flash message,http://getbootstrap.com/components/#alerts
+unstarted,2,"mvp,crud",bootstrapify tasks index page,http://getbootstrap.com/css/#tables
+unstarted,2,"mvp,crud",bootstrapify tasks form,http://getbootstrap.com/css/#forms
+unstarted,2,"mvp,crud",bootstrapify task show page,
+unstarted,2,"mvp,crud",bootstrapify the flash message,http://getbootstrap.com/components/#alerts
 ```
 
 ## Links ##
@@ -29,9 +29,9 @@ Add breadcrumbs
 MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
-unscheduled,1,stretch,bootstrapify the pagination links,"http://getbootstrap.com/components/#pagination"
-unscheduled,1,stretch,add breadcrumbs to tasks new/show/edit,"http://getbootstrap.com/components/#breadcrumbs"
-unscheduled,1,stretch,convert breadcrumb code to a helper method,"in app/helpers/application_helper.rb"
+unscheduled,1,"stretch,crud",bootstrapify the pagination links,"http://getbootstrap.com/components/#pagination"
+unscheduled,1,"stretch,crud",add breadcrumbs to tasks new/show/edit,"http://getbootstrap.com/components/#breadcrumbs"
+unscheduled,1,"stretch,crud",convert breadcrumb code to a helper method,"in app/helpers/application_helper.rb"
 ```
 
 ## Links ##
