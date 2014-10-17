@@ -163,8 +163,8 @@ NOTE: you should _not_ have an sqlite gem anywhere in your app
 ## Running Ruby Files
 
 ```
-mkdir -p ~/workspace/ruby-files
-cd ~/workspace/ruby-files
+mkdir -p ~/workspace/ruby-playground
+cd ~/workspace/ruby-playground
 atom .
 ```
 
