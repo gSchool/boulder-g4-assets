@@ -29,5 +29,14 @@ http://pixabay.com/static/uploads/photo/2013/07/12/17/49/meeting-152506_640.png
 
 # View New Pages
 
+Tracker Stories:
+```
+Current State,Estimate,Title,Labels,Description
+unstarted,1,Separate each view into different controllers,stretch,
+unstarted,1,Add named routes and reference those with link_to,stretch,http://guides.rubyonrails.org/routing.html
+unstarted,1,Customize the link names with internationalization,stretch,http://guides.rubyonrails.org/i18n.html
+unstarted,1,Turn the footer links into plain text when the user is on that page,stretch,http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+```
+
 ![](https://galvanize.mybalsamiq.com/mockups/2321986.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
