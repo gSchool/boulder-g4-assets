@@ -143,10 +143,8 @@ heroku run rake db:migrate
 
 Basic CRUD
 
-* [MVP Wires](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0060-task-with-scaffold)
-* [MVP Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0060-task-with-scaffold/mvp.csv)
-* [Stretch Wires](https://github.com/gSchool/boulder-g4-assets/blob/master/gCamp/0060-task-with-scaffold/stretch.md)
-* [Stretch Stories](https://raw.githubusercontent.com/gSchool/boulder-g4-assets/master/gCamp/0060-task-with-scaffold/stretch.csv)
+* [Wires and Stories](https://github.com/gSchool/boulder-g4-assets/tree/master/gCamp/0060-task-with-scaffold)
+
 
 Bootstrapify the views
 
