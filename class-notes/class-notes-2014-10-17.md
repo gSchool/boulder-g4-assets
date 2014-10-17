@@ -126,6 +126,14 @@ git push heroku master
 heroku open
 ```
 
+After making changes, deploy with:
+
+```
+git status
+# add if necessary
+git push heroku master
+```
+
 To add a name, see https://devcenter.heroku.com/articles/creating-apps#creating-a-named-app - like `heroku apps:create my-special-name`
 
 NOTE: you should _not_ have an sqlite gem anywhere in your app
