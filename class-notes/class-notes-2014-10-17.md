@@ -22,6 +22,7 @@ unstarted,1,chore,invite instructors as project members
 unstarted,1,chore,create rails app locally
 unstarted,1,chore,install twitter bootstrap
 unstarted,1,feature,users should be able to see a simple homepage with my personal info
+unstarted,1,feature,users who visit your github repo should see a nice looking readme with a heroku url
 ```
 
 **Create a rails app locally**
@@ -49,6 +50,10 @@ https://github.com/twbs/bootstrap-sass#a-ruby-on-rails
 
 Instead of copying the entire bootstrap template, try just adding one component
 at a time.
+
+**Add a readme**
+
+
 
 **Add a simple homepage**
 
@@ -109,7 +114,10 @@ git add -A
 git commit -m "added rails_12factor gem for Heroku"
 heroku apps:create
 git push heroku master
+heroku open
 ```
+
+To add a name, see https://devcenter.heroku.com/articles/creating-apps#creating-a-named-app - like `heroku apps:create my-special-name`
 
 NOTE: you should _not_ have an sqlite gem anywhere in your app
 
