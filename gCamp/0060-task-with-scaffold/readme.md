@@ -2,6 +2,7 @@
 
 User can CRUD tasks with rails g scaffold
 
+MVP Tracker Stories:
 ```
 Current State,Estimate,Labels,Title
 unstarted,1,mvp,users should be able to CRUD tasks with a description
@@ -25,6 +26,7 @@ Tasks - index with tasks
 
 Tasks - index with pagination
 
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Labels,Title,Description
 unscheduled,1,stretch,convert Quotes to an ActiveRecord model,write a migration to populate the data (do not use rails generator)
