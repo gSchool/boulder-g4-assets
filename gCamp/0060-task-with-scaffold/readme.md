@@ -19,11 +19,19 @@ Tasks - edit
 Tasks - index with tasks
 ![Tasks - index with tasks](https://galvanize.mybalsamiq.com/mockups/2346967.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
-# Scaffold Tasks - CRUD
+# Strecth Wireframes
 
 ## Links ##
 
 Tasks - index with pagination
+
+```
+Current State,Estimate,Labels,Title,Description
+unscheduled,1,stretch,convert Quotes to an ActiveRecord model,write a migration to populate the data (do not use rails generator)
+unscheduled,1,stretch,convert FAQs to an ActiveRecord model,write a migration to populate the data (do not use rails generator)
+unscheduled,1,stretch,users should be able to page through the tasks index page,use Kaminari
+unscheduled,1,stretch,users should be able to download a csv of all tasks from the index page,use send_data and CSV
+```
 
 ![](https://galvanize.mybalsamiq.com/mockups/2353723.png?key=dd6f91232218fa4d6cbf663738e10e0cfca3e151)
 
