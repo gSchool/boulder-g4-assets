@@ -35,6 +35,7 @@ NOTE: replace `my-app` with the name of your app
 cd ~/workspace
 rails new my-app --database postgresql
 cd my-app
+rake db:create
 ```
 
 Visit http://localhost:3000/
@@ -59,6 +60,8 @@ mv app/assets/stylesheets/application.css app/assets/stylesheets/application.css
 
 Instead of copying the entire bootstrap template, try just adding one component
 at a time.
+
+For help with gem versions, check http://rubygems.org
 
 **Add a readme**
 
