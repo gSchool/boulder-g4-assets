@@ -1,6 +1,6 @@
 # Routes: View New Pages
 
-Tracker Stories:
+MVP Tracker Stories:
 ```
 Current State,Estimate,Title,Labels
 unstarted,1,Create the about page and link it in the footer,"mvp,routes"
@@ -29,7 +29,7 @@ http://pixabay.com/static/uploads/photo/2013/07/12/17/49/meeting-152506_640.png
 
 # View New Pages
 
-Tracker Stories:
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Title,Labels,Description
 unstarted,1,Separate each view into different controllers,"stretch,routes"
