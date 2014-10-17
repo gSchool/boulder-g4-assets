@@ -9,7 +9,7 @@ Personal project
 * Name it whatever you like.
 * Make sure it's in the gCamp account
 * Do NOT make it public
-* Invite the following members:
+* Invite the following members as owners:
     * jeff@galvanize.it
     * emily@galvanize.it
     * aaron@galvanize.it
@@ -56,7 +56,13 @@ at a time.
 
 **Add a readme**
 
+Rails generated a README.rdoc file for you.
 
+* `mv README.rdoc README.md`
+* Delete everything in it
+* Add useful content
+
+Markdown syntax: http://daringfireball.net/projects/markdown/syntax
 
 **Add a simple homepage**
 
