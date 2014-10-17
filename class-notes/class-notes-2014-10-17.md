@@ -159,3 +159,24 @@ NOTE: you should _not_ have an sqlite gem anywhere in your app
 **Run at the same time as gCamp**
 
 `rails s -p 3001`
+
+## Running Ruby Files
+
+```
+mkdir -p ~/workspace/ruby-files
+cd ~/workspace/ruby-files
+atom .
+```
+
+Create a file called `my_script.rb`
+
+```
+puts "Hello,\nmy name is <enter your name>"
+```
+
+Run the file with `ruby my_script.rb`
+
+Outputting text:
+
+* `puts` prints thing you pass it, as nicely as it can
+* `p` inspects the thing you pass it
