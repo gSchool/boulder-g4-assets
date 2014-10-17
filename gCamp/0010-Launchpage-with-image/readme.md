@@ -2,7 +2,7 @@
 
 User views home page / launch page w/ image
 
-Tracker Stories:
+MVP Tracker Stories:
 ```
 Title,Labels
 Users can view the launch page,"mvp,launch"
@@ -15,7 +15,7 @@ Users can view the launch page,"mvp,launch"
 
 # Launch page uses custom layout and fancy styles
 
-Tracker Stories:
+Stretch Tracker Stories:
 ```
 Current State,Estimate,Title,Labels,Description
 unstarted,1,Add a full-width / full-height background image,"stretch,launch","And re-do the jumbotron to look like the mockup"
