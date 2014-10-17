@@ -136,3 +136,7 @@ NOTE: you should _not_ have an sqlite gem anywhere in your app
 * Paste in your full tracker URL (starting with `http`)
 * Paste in your full github URL (starting with `http`)
 * Paste in your full Heroku URL (starting with `http`)
+
+**Run at the same time as gCamp**
+
+`rails s -p 3001`
