@@ -10,7 +10,5 @@ task :day do
     next_date = next_date.next_day
   end
   new_path_name = next_date.strftime("class-notes/class-notes-%Y-%m-%d.md")
-  File.open(new_path_name, "w") do |f|
-    f.puts next_date.strftime("# %B #{next_date.day.ordinalize}, %Y")
-  end
+  File.open(new_path_name, "w")
 end
