@@ -1,5 +1,3 @@
-# October 20, 2014
-
 ## Weekly overview
 
 * Testing with Capybara

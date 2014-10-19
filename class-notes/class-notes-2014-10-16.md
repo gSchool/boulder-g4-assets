@@ -1,7 +1,3 @@
-## Class Notes, October 16th, 2014
-
-(will be live-updated)
-
 ### Git
 
 Create a new git directory:

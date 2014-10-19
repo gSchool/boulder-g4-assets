@@ -1,7 +1,3 @@
-## Class Notes, October 15th, 2014
-
-(will be live-updated)
-
 ## Object-Oriented Programming
 
 ### Models
@@ -97,18 +93,15 @@ end
 Use `rails c` (or `rails console`) to play around.
 
 ```ruby
-
-    my_peep = Person.new
-    my_peep.first_name = "Jeff"
-    my_peep.last_name = "Dean"
-    my_peep.full_name  # <= "Jeff Dean"
-
+my_peep = Person.new
+my_peep.first_name = "Jeff"
+my_peep.last_name = "Dean"
+my_peep.full_name  # <= "Jeff Dean"
 ```
 
 ### Controller / View Communication
 
 ```ruby
-
 # in some controller, like app/controllers/pages_controller.rb
 
 class PagesController < ApplicationController
