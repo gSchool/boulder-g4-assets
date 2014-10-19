@@ -64,7 +64,6 @@ Exercise:
 - users should be able to record that an organization fired an employee
 - users should be able to record that an organization laid off an employee
 - users should be able to record that a person quit their job with an organization
-- 
 
 
 ### Ruby Classes
