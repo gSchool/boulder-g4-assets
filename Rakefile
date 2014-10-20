@@ -9,6 +9,6 @@ task :day do
   until next_date.saturday? == false && next_date.sunday? == false
     next_date = next_date.next_day
   end
-  new_path_name = next_date.strftime("class-notes/class-notes-%Y-%m-%d.md")
+  new_path_name = next_date.strftime("class-notes/%Y-%m-%d.md")
   File.open(new_path_name, "w")
 end
