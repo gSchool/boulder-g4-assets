@@ -16,7 +16,10 @@ Stop your server, run `bundle` and restart your server.
 ### 3 - copy the html in
 
 * Go to http://getbootstrap.com/getting-started/
-* Go to the Jumbotron starter template, view the source and copy the html
+* Go to the Jumbotron starter template
+    - view the source
+    - copy the html for the nav bar
+    - get a footer going
 
 In `app/views/layouts/application.html.erb`
 
